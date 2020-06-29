@@ -1,0 +1,8 @@
+{
+  "version": "0.0.1",
+  "name": "TypeScript Scoring System for Tennis Tournament",
+  "description": "Limited to one game set, designed by Garry Xiao",
+  "dependencies": {
+    "typescript": "3.9.2"
+  }
+}
